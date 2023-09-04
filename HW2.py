@@ -43,4 +43,3 @@ else:
         print(inquiry * 39.370)
     elif revert == "YARDS":
         print(inquiry * 1.0936)
-
