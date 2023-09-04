@@ -27,3 +27,4 @@ else:
             print (third)
     elif choose_the_number == "AVER":
         print(int((first+second+third)/3))
+
